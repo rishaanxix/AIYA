@@ -59,7 +59,7 @@ In conclusion, AI in education has potential for transforming the learning exper
 
 https://www.instrucko.com/blogs/the-advantages-and-disadvantages-of-ai-in-education
 
-candorschool.edu.in/transforming-education-the-role-of-ai-in-the-school-sector/?gclid=CjwKCAjw-7OlBhB8EiwAnoOEk1eJhl93zO20iIIjhNCpZDdL0di7O5FqQ9C2XbCJEtT-sJtsh63N-RoCe9gQAvD_BwE
+https://candorschool.edu.in/transforming-education-the-role-of-ai-in-the-school-sector/?gclid=CjwKCAjw-7OlBhB8EiwAnoOEk1eJhl93zO20iIIjhNCpZDdL0di7O5FqQ9C2XbCJEtT-sJtsh63N-RoCe9gQAvD_BwE
 
 https://www.forbes.com/sites/theyec/2023/02/21/ai-in-the-classroom-pros-cons-and-the-role-of-edtech-companies/?sh=1226184efeb4
 
