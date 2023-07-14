@@ -34,7 +34,7 @@ One problem in the education industry that AI can help address is the lack of pe
 
 ## The Solution
 
-One solution to address the lack of personalized learning opportunities in the education industry is the integration of AI-powered adaptive learning systems. 
+One solution to address the lack of personalized learning opportunities in the education industry is the integration of AI-powered adaptive learning systems through  applications that could be used by both the students and the teachers.
 
 ### Describe your proposed AI-based solution
 
