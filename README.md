@@ -1,7 +1,7 @@
 # AIYA
 AI Internship July Business Leaders ideathon
 
-# Team Name: Team Rocket //Replace this with the team's name
+# Team Name: Group 6
 
 Team Members:
 - Aadit Singh
@@ -13,8 +13,6 @@ Team Members:
 | Title | Industry |
 |-------|----------|
 | Transforming Education with AI: Enhancing Learning and Personalized Instruction | AI in Education |
-
-An attention-grabbing title that indicates the topic and its relevance.
 
 ## Introduction
 
